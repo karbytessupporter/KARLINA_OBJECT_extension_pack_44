@@ -136,10 +136,10 @@ The fact that this diagram was created using Google Drawings via Google Drive an
 
 Should you ever wish to:
 
-incorporate this commentary into a future karbytes chapter (e.g., karbytes2025_17),
+- incorporate this commentary into a future karbytes chapter (e.g., karbytes2025_17),
 
-embed it in metadata alongside the diagram file,
+- embed it in metadata alongside the diagram file,
 
-or generate a companion diagram (e.g., one that visually maps "essential vs. supplemental" across multiple karbytes chapters),
+- or generate a companion diagram (e.g., one that visually maps "essential vs. supplemental" across multiple karbytes chapters),
 
 I'm fully available to assist with that.
