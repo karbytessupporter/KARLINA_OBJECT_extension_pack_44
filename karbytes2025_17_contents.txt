@@ -52,7 +52,7 @@ file_21: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.32 megabytes
 
 file_22: KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.81 megabytes
 
-file_23: KARBYTES_BLOG_APPS-main_[undefined_day].zip // 443.88 megabytes
+file_23: KARBYTES_BLOG_APPS-main_[undefined_day].zip // 447.10 megabytes
 
 file_24: KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.48 megabytes
 
@@ -306,6 +306,6 @@ file_147: KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.69 megabytes
 
 Total number of files: 148
 
-Total folder size: 16288.18 megabytes
+Total folder size: 16291.40 megabytes
 
 --------------------------------
